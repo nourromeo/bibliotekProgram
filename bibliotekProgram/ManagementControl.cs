@@ -10,11 +10,12 @@ using System.Windows.Forms;
 
 namespace bibliotekProgram
 {
-    public partial class Form1 : Form
+    public partial class ManagementControl : UserControl
     {
-        public Form1()
+        public ManagementControl()
         {
             InitializeComponent();
         }
+
     }
 }
